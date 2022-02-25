@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623348447 source:/home/ademir/ProjetosIII/Prefeit_salario/main.c
+	<stdio.h>
+	<stdlib.h>
+

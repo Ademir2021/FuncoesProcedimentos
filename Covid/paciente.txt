@@ -1,0 +1,11 @@
+CPF do Paciente: -961633963
+Nome do Paciente: aaaaaaaaaa
+Sexo do Paciente: m
+Idade do Paciente: 46
+
+O Paciente Atingiu 21989 pontosCPF do Paciente: 1262253940
+Nome do Paciente: Ademir
+Sexo do Paciente: m
+Idade do Paciente: 34
+
+O Paciente Atingiu 21845 pontos
